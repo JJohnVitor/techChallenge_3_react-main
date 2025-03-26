@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "eab6655c-1a49-4e31-ae86-177a70587dc5",
+      "titulo": "Entenda as Ligações Químicas",
+      "descricao": "Descubra como os átomos se unem e formam tudo o que existe através das ligações iônicas, covalentes e metálicas. Na ligação iônica, um átomo doa elétrons e outro recebe. Já na covalente, os átomos compartilham elétrons para formar moléculas estáveis como a água.",
+      "autor": "joao"
+    },
+    {
+      "id": "ad432bdb-7c1f-48e5-b7d9-0fe11b9a5e9b",
+      "titulo": "Desvendando a Geometria: O Poder do Teorema de Pitágoras",
+      "descricao": "Você sabe como o Teorema de Pitágoras é aplicado no seu dia a dia? Neste post, vamos explorar a fórmula que revolucionou a geometria e entender como calcular distâncias, construir ângulos retos e resolver problemas de forma prática e visual.Em todo triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos catetos:  2 + 2 = 2 a  2  +b  2  =c  2  . Use essa fórmula para calcular distâncias ou descobrir lados desconhecidos.",
+      "autor": "Luisa"
+    },
+    {
+      "id": "65b2b78f-b130-4a1e-849d-4e8c887fddc9",
+      "titulo": "O Que é Fotossíntese?",
+      "descricao": "Saiba como as plantas produzem energia e por que esse processo é essencial para a vida na Terra. As plantas usam luz solar, água e gás carbônico para produzir glicose e liberar oxigênio. Esse processo acontece nas folhas, nos cloroplastos.",
+      "autor": "Paulo Fernandes"
+    }
+  ],
+  "acessos": [
+    {
+      "id": "1",
+      "login": "joao",
+      "senha": "barros"
+    },
+    {
+      "id": "d903127e-c161-4e5b-8f2d-35c9c73b2271",
+      "login": "joao",
+      "senha": "teste"
+    },
+    {
+      "id": "94405cc2-ed67-4da3-8fbf-a70ce710328e",
+      "login": "w",
+      "senha": "w"
+    },
+    {
+      "id": "b781fcd2-79d7-4c28-b698-ec99e104eca3",
+      "login": "s",
+      "senha": "s"
+    },
+    {
+      "id": "1569567a-64c7-478b-84e1-2fad68d89463",
+      "login": "whelyda",
+      "senha": "ux"
+    },
+    {
+      "id": "7ec85969-6b70-4be7-96a4-bfb058bcdde5",
+      "login": "",
+      "senha": ""
+    },
+    {
+      "id": "c9067597-ee80-4ea8-98e8-8537c76d97f9",
+      "login": "Teste",
+      "senha": "Teste"
+    },
+    {
+      "id": "366b1792-70d1-494d-9bda-d834f2331521",
+      "login": "Whelyda",
+      "senha": "Teste"
+    },
+    {
+      "id": "429d2ff5-eab3-4c6b-8c8e-edee2f7fd62b",
+      "login": "Whelyda",
+      "senha": "Teste"
+    },
+    {
+      "id": "e5750ee9-58b3-46fd-ba18-81c2892219cf",
+      "login": "user",
+      "senha": "senha"
+    }
+  ]
+}
